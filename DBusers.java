@@ -1,2 +1,2 @@
-hiii....hello everyone
+hello everyone
 git commands are very important
